@@ -1,0 +1,23 @@
+{
+  "name": "novel",
+  "version": "1.0.0",
+  "description": "![img](https://bkimg.cdn.bcebos.com/pic/d833c895d143ad4b88a4f5ac8f025aafa50f06d7?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangyan4/novel.git"
+  },
+  "keywords": [],
+  "author": "wangyan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangyan4/novel/issues"
+  },
+  "homepage": "https://github.com/wangyan4/novel#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
